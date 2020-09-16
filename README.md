@@ -1,7 +1,8 @@
 # AngularShoppingList
 
-* [ ] Created dummy list item array of object in App.vue
-* [ ] Create List component
+* [ ] Created List Models
+* [ ] Created dummy list item array of object in 
+* [x] Create List component
 * [ ] Create ListItem component
 * [ ] Display list item in List Component
 * [ ] Display line trough for completed list item
