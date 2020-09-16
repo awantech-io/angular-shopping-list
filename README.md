@@ -1,7 +1,7 @@
 # AngularShoppingList
 
-* [ ] Created List Models
-* [ ] Created dummy list item array of object in 
+* [x] Created List Models
+* [x] Created dummy list item array of object in  list component
 * [x] Create List component
 * [ ] Create ListItem component
 * [ ] Display list item in List Component
