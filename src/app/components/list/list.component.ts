@@ -10,12 +10,12 @@ import { List } from '../../models/List';
 
 export class ListComponent implements OnInit {
 
-  list:list[];
+  lists:List[];
 
   constructor() { }
 
   ngOnInit(): void {
-    this.list = [
+    this.lists = [
       {
         id:1,
         title: 'item one',
